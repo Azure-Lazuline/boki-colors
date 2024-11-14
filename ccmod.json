@@ -5,6 +5,7 @@
   "description": {
     "en_US": "Change Lea's palette to Boki's from Copy Kitty, with different ones per-element."
   },
+  "repository": "https://github.com/Azure-Lazuline/boki-colors",
   "tags": ["cosmetic"],
   "authors": "Azure Lazuline",
   "icons": {
