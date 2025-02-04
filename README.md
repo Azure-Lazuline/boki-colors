@@ -1,4 +1,4 @@
-# boki-colors
+# Boki Colors
 
 ![](https://github.com/Azure-Lazuline/boki-colors/blob/main/screenshots/boki.png?raw=true)
 
